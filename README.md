@@ -20,8 +20,9 @@ A simple and interactive **Password Generator App** built using **HTML, CSS, and
 
 ## Screenshots
 
-![App Screenshot](screenshot.png)  
-*(Add a screenshot of your app in the repo)*
+![App Screenshot](../assets/image.png)
+
+
 
 ---
 
