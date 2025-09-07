@@ -20,7 +20,7 @@ A simple and interactive **Password Generator App** built using **HTML, CSS, and
 
 ## Screenshots
 
-![App Screenshot](../assets/image.png)
+![App Screenshot](./assets/image.png)
 
 
 
